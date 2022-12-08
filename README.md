@@ -47,8 +47,8 @@
 
 ![صورة9](https://user-images.githubusercontent.com/70335592/206423058-114a3046-5d0b-4ed5-b4ae-cd3cafabc415.png)
 
-![صورة10](https://user-images.githubusercontent.com/70335592/206423067-5fe9a34c-9812-4df9-a196-500adc22e0ea.png)
 
+![صورة13](https://user-images.githubusercontent.com/70335592/206425637-ea5ef8e9-81b7-400a-800a-ad57a8a4de6f.png)
 
 </br>
 
@@ -60,9 +60,9 @@
 
 ## Returns a specified article with a id number
 
-![صورة12](https://user-images.githubusercontent.com/70335592/206423486-bae738c5-7bcc-4ca3-bc26-0b37f0013423.png)
 
 
 
+![صورة14](https://user-images.githubusercontent.com/70335592/206425585-ba1dc3bf-84bb-40bc-95b9-226389e8f754.png)
 
 
