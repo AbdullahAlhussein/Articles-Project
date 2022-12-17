@@ -1,6 +1,5 @@
 # Articles-Project
-
-## I really enjoyed carry out this task, thank you for this organized and professional work. I was busy with the tasks in my job, in addition to the task was assigned to me. I hope you will be satisfied with outcome
+<!-- I really enjoyed carry out this task, thank you for this organized and professional work. I was busy with the tasks in my job, in addition to the task was assigned to me. I hope you will be satisfied with outcome -->
 
 ---
 
